@@ -1,1 +1,1 @@
-# Lab3
+# PigLatin-Generator
